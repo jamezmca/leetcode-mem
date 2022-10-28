@@ -1,0 +1,31 @@
+{
+    "easy": {
+        "1": {
+            "link": "https://leetcode.com/problems/two-sum/",
+            "question_img": "https://i.imgur.com/4E1rTSg.png",
+            "answer_link": "https://i.imgur.com/KUacWx0.png",
+            "explanation": "",
+            "time_complexity": "O(n)"
+        },
+        "20": {
+            "link": "https://leetcode.com/problems/valid-parentheses/",
+            "question_img": "",
+            "answer_link": "",
+            "explanation": "",
+            "time_complexity": ""
+        },
+        "": {
+            "link": "",
+            "question_img": "",
+            "answer_link": "",
+            "explanation": "",
+            "time_complexity": ""
+        }
+    },
+    "medium": {
+
+    }, 
+    "hard": {
+
+    }
+}

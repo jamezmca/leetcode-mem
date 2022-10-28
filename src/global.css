@@ -1,0 +1,21 @@
+/**
+ * WHAT IS THIS FILE?
+ *
+ * Globally applied styles. No matter which components are in the page or matching route,
+ * the styles in here will be applied to the Document, without any sort of CSS scoping.
+ *
+ */
+ @font-face {
+  font-family: Gothicc;
+  src: url("/fonts/alt-gothic.otf") ;
+}
+
+body {
+  font-family: 'Gothicc', 'Times New Roman', Times, serif;
+  color: hsl(218, 37%, 23%);
+
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
